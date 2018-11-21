@@ -1,3 +1,4 @@
+
 #使用drf-yasg实现文档生成
 ###依赖库
 
@@ -37,7 +38,7 @@
     validate-email==1.3
 
 ###第一步
-
+```
     # Create your views here.
     import json
 
@@ -116,9 +117,9 @@
             """
             return Response("post")
 
-
+```
 ###第二步
-
+```
     # 对文档的一些说明信息
     swagger_info = openapi.Info(
         title="Snippets API",
@@ -170,3 +171,4 @@
         path('admin/', admin.site.urls),
         path('rest/', include("rest.urls"))
     ]
+```
