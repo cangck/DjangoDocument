@@ -1,5 +1,8 @@
 
 #使用drf-yasg实现文档生成
+(https://blog.csdn.net/u012328712/article/details/84307658#_8)
+[预览图片](https://github.com/cangck/DjangoDocument/blob/master/WX20181121-213213%402x.png)
+(https://github.com/cangck/DjangoDocument/blob/master/WX20181121-213230%402x.png)
 ###依赖库
 
     certifi==2018.10.15
