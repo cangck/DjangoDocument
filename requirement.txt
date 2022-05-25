@@ -17,7 +17,7 @@ jsonpointer==1.14
 jsonschema==2.6.0
 MarkupSafe==1.1.0
 openapi-codec==1.3.2
-PyJWT==1.6.4
+PyJWT==2.4.0
 pytz==2018.7
 PyYAML==3.13
 requests==2.20.1
